@@ -9,6 +9,6 @@ Possibly narrowed down to:
 
 <h1>License</h1>
 <br>
-pami is released under GNU GPLv3 License.
+pamq is released under GNU GPLv3 License.
 <br>
 Copyright © 2015 Thomas Carrio
