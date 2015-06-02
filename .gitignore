@@ -1,5 +1,6 @@
-#assetkeys
-#assetsToSearch.csv
-#credentials
-#ghostdriver.log
-#user.csv
+assetkeys
+assetsToSearch.csv
+credentials
+ghostdriver.log
+user.csv
+*.csv
